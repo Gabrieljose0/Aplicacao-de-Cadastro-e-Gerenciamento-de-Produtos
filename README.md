@@ -1,3 +1,3 @@
 # Desafio Targert
 
-Este repositório contém a solução desenvolvida para o desafio proposto pela Empresa Targert como parte do processo seletivo.
+Este repositório contém a solução desenvolvida em PHP para o desafio proposto pela Empresa XYZ como parte do processo seletivo.
