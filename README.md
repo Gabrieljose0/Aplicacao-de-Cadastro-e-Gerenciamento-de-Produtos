@@ -51,11 +51,11 @@ Para rodar o projeto localmente, você precisará de:
 
 # Instalação
 1. Clone este repositório:
-git clone https://github.com/Gabrieljose0/Listagem-de-Produtos.git
+git clone https://github.com/Gabrieljose0/Aplicacao-de-Cadastro-e-Gerenciamento-de-Produtos.git
 
 
 2. Navegue até o diretório do projeto:
-cd Aplicação de Cadastro e Gerenciamento de Produtos
+cd Aplicacao-de-Cadastro-e-Gerenciamento-de-Produtos
 
 3. Configure as credenciais do banco de dados no arquivo config.php.
 
