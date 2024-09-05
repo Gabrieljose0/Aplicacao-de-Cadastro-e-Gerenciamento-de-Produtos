@@ -59,7 +59,7 @@ cd Aplicacao-de-Cadastro-e-Gerenciamento-de-Produtos
 
 3. Configure as credenciais do banco de dados no arquivo config.php.
 
-4. Importe o arquivo database.sql no seu banco de dados.
+4. Importe o arquivo tb_cadastro.sql no seu banco de dados.
 
 5. Inicie o servidor web e acesse o projeto pelo navegador:
 php -S localhost:8000
