@@ -1,11 +1,11 @@
 # Projeto: Aplicação de Cadastro e Gerenciamento de Produtos
-Este repositório contém a solução desenvolvida em PHP para o desafio proposto durante o processo seletivo. O objetivo do desafio foi criar uma aplicação que permitisse aos usuários cadastrar produtos e gerenciar sua disponibilidade para venda.
+Este repositório contém a solução desenvolvida em PHP para um desafio. O objetivo do desafio foi criar uma aplicação que permitisse aos usuários cadastrar produtos e gerenciar sua disponibilidade para venda.
 
 
 # Descrição do Projeto
 A aplicação permite:
 
--Cadastro de Produtos: Os usuários podem cadastrar novos produtos, informando detalhes como nome, descrição e preço. Durante o cadastro, é possível indicar se o produto está disponível para venda.
+-Cadastro de Produtos: Os usuários podem cadastrar novos produtos, informando detalhes como nome e preço. Durante o cadastro, é possível indicar se o produto está disponível para venda.
 
 
 -Listagem de Produtos: Após o cadastro, os produtos disponíveis para venda são exibidos em uma listagem organizada.
