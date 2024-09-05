@@ -49,7 +49,7 @@ Para rodar o projeto localmente, você precisará de:
 -Banco de dados MySQL
 
 
-#Instalação
+# Instalação
 1. Clone este repositório:
 git clone https://github.com/Gabrieljose0/Listagem-de-Produtos.git
 
