@@ -34,6 +34,9 @@ A aplicação permite:
 -MySQL: Banco de dados para armazenar as informações dos produtos.
 
 
+-Bootstrap: Framework front-end para criação de uma interface responsiva e estilizada.
+
+
 -HTML/CSS: Estruturação e estilização da interface do usuário.
 
 
