@@ -54,14 +54,14 @@ Para rodar o projeto localmente, você precisará de:
 git clone https://github.com/Gabrieljose0/Listagem-de-Produtos.git
 
 
-2.Navegue até o diretório do projeto:
+2. Navegue até o diretório do projeto:
 cd Aplicação de Cadastro e Gerenciamento de Produtos
 
-3.Configure as credenciais do banco de dados no arquivo config.php.
+3. Configure as credenciais do banco de dados no arquivo config.php.
 
-4.Importe o arquivo database.sql no seu banco de dados.
+4. Importe o arquivo database.sql no seu banco de dados.
 
-5.Inicie o servidor web e acesse o projeto pelo navegador:
+5. Inicie o servidor web e acesse o projeto pelo navegador:
 php -S localhost:8000
 
 
