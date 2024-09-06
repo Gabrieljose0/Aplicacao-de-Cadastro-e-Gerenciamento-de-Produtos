@@ -63,31 +63,33 @@ $result = $conexao->query($sql);
             </a>
         </div>
 
-        <table class="table table-striped text-center">
-            <thead>
-                <tr>
-                    <th scope="col">NOME</th>
-                    <th scope="col">VALOR</th>
-                </tr>
-            </thead>
-
-            
+        <div class="table-responsive">
+            <table class="table table-striped text-center">
+                <thead>
+                    <tr>
+                        <th scope="col">NOME</th>
+                        <th scope="col">VALOR</th>
+                    </tr>
+                </thead>
+    
                 
-                    <?php
-                        while($user_data = mysqli_fetch_assoc($result)) {
-                                echo   "<tbody>
-                                        <tr>
-                                            <th> <a href='edit.php?id=$user_data[id]'>". $user_data['produto'] ."</a></th>
-                                            <td> R$". str_replace(",",".",$user_data['valor']) . "</td>
-                                        </tr>
-                                    </tbody>";
-                            }
-                            
-                    ?>
+                    
+                        <?php
+                            while($user_data = mysqli_fetch_assoc($result)) {
+                                    echo   "<tbody>
+                                            <tr>
+                                                <th> <a href='edit.php?id=$user_data[id]'>". $user_data['produto'] ."</a></th>
+                                                <td> R$". str_replace(",",".",$user_data['valor']) . "</td>
+                                            </tr>
+                                        </tbody>";
+                                }
+                                
+                        ?>
+                    
                 
-            
-
-        </table>
+    
+            </table>
+        <div>
     </div>
 
 
